@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', Tahoma, sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+* {
+  color: black;
+}
+/* Універсальний селектор */
